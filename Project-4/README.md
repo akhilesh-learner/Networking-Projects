@@ -1,4 +1,4 @@
-# **LAB 3** ~ Campus Network Design and Implementation
+# **LAB 4** ~ Campus Network Design and Implementation
 
 A multi-campus university network designed and implemented using **Cisco Packet Tracer**, featuring VLAN segmentation, inter-VLAN routing, RIPv2, static routing, DHCP, and internal/external server connectivity.
 
